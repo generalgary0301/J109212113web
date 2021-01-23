@@ -17,7 +17,7 @@ class MainController extends Controller
     	if ($req->isMethod('post')) {
 			$title = $req->input('title');
 		  if (empty($title))
-           return "請輸入文字";
+           return  "欄位不要空白喔!!" ;
           else
 	    	$data = new Headlines;
 	    	$data->title = $title;

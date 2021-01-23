@@ -13,7 +13,7 @@
   </head>
   <body>
     <div class="container">
-        <h2>今日你的幸運數字如下:</h2>
+        <h2>Lucky Number!!</h2>
         <table class="table table-striped">
         <tr>
             <th>預測中獎號碼：</th>

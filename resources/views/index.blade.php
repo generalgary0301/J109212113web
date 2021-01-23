@@ -8,14 +8,14 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
-    <title>林耀六</title>
+    <title>蔡吉原</title>
   </head>
   <body>
   	<div class="container">
-	    <h1>林耀六的期末作業</h1>
+	    <h1>蔡吉原的期末作業</h1>
 	    <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">J109202101</a>
+    <a class="navbar-brand" href="#">J109202113</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -25,7 +25,7 @@
           <a class="nav-link active" aria-current="page" href="dashboard">返回</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/lucky/">樂透</a>
+          <a class="nav-link" href="/lucky/">樂透號碼預測</a>
         </li>
         @guest
         <li class="nav-item">
